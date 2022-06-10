@@ -89,5 +89,3 @@ while not machine_off:
 
         else:
             print("Sorry that's not enough money.")
-
-print("And were done")
