@@ -74,7 +74,7 @@ while not machine_off:
         if money_inserted >= coffee_cost(coffee_choice=COFFEE):
             change = money_inserted - coffee_cost(coffee_choice=COFFEE)
             print(f"Here's ${change} in change")
-            print(f"Here's your {COFFEE}. Enjoy! :)")
+            print(f"Here's your {COFFEE} ☕. Enjoy! ☺")
 
             # After purchase mechanism
             # Water
